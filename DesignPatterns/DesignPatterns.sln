@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A - Creational", "A - Creational", "{DBD48C14-6821-418D-8900-36E859261D45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Singleton", "01 - Singleton", "{6958B6C4-048E-4FA8-A4AB-6E3440D2C869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "..\Singleton\Singleton.csproj", "{15F75FB7-BC33-4A70-BDE7-A42DC0FDDCDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "B - Structural", "B - Structural", "{6D40C321-6AC8-4AFE-AEC0-BEE8AB502EF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C - Behavioral", "C - Behavioral", "{37BCCCFC-4C2E-4418-9F82-4A67F808D2DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F75FB7-BC33-4A70-BDE7-A42DC0FDDCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F75FB7-BC33-4A70-BDE7-A42DC0FDDCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F75FB7-BC33-4A70-BDE7-A42DC0FDDCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F75FB7-BC33-4A70-BDE7-A42DC0FDDCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6958B6C4-048E-4FA8-A4AB-6E3440D2C869} = {DBD48C14-6821-418D-8900-36E859261D45}
+		{15F75FB7-BC33-4A70-BDE7-A42DC0FDDCDB} = {6958B6C4-048E-4FA8-A4AB-6E3440D2C869}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC4CD9F-8217-47B1-95F6-EB84EB10C85A}
+	EndGlobalSection
+EndGlobal
