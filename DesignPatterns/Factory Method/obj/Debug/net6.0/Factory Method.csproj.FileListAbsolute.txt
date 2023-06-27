@@ -1,0 +1,15 @@
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\bin\Debug\net6.0\Factory Method.exe
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\bin\Debug\net6.0\Factory Method.deps.json
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\bin\Debug\net6.0\Factory Method.runtimeconfig.json
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\bin\Debug\net6.0\Factory Method.dll
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\bin\Debug\net6.0\Factory Method.pdb
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\obj\Debug\net6.0\Factory Method.csproj.AssemblyReference.cache
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\obj\Debug\net6.0\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\obj\Debug\net6.0\Factory Method.AssemblyInfoInputs.cache
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\obj\Debug\net6.0\Factory Method.AssemblyInfo.cs
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\obj\Debug\net6.0\Factory Method.csproj.CoreCompileInputs.cache
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\obj\Debug\net6.0\Factory Method.dll
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\obj\Debug\net6.0\refint\Factory Method.dll
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\obj\Debug\net6.0\Factory Method.pdb
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\obj\Debug\net6.0\Factory Method.genruntimeconfig.cache
+G:\Software Design\Low Level Design\Design Pattern in c# and .NET\Design Patterns\DesignPatterns\Factory Method\obj\Debug\net6.0\ref\Factory Method.dll
